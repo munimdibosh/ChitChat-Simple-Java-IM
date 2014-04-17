@@ -1,0 +1,3 @@
+chatClient
+chatClient$enterButtonListener
+chatClient$sendButtonListener
